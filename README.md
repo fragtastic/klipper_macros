@@ -40,6 +40,6 @@ gcode:
 [include klipper_macros/nozzle_prime_line_printer_name.cfg]
 [include klipper_macros/start_print.cfg]
 [include klipper_macros/end_print.cfg]
-...
 
+...
 ```
